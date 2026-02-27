@@ -1,0 +1,111 @@
+# STAYC – BEBE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Dancin' around in my tight dress
+하고 싶은 대로 해
+cause I like that
+Look at me what I do
+I'm so priceless
+At the same time
+lookin like a 막내
+Oh excuse me
+made you a little salty
+숨기려고 해봤자 다 티나
+like you lunge
+Yeah so had enough
+fed up with you girly
+보기 싫은 건 때론 과감히 편집
+yeah
+정신없이 내가 나 했지 뭐 rodeo
+No it's a shame
+남을 따라 하는 건 No
+난 둘을 믿어
+나랑 또 in the mirror
+So here we go again
+STAYC girls it's going down
+Don't wanna be a bebe
+You know I'm sick of lying
+Don't wanna be a bebe
+You know I'm sick of lying
+솔직하게 Si, c'est moi
+Si, c'est moi
+Si, c'est moi
+Don't wanna be a bebe
+Yeah that's me
+Si, c'est moi
+I'm feelin' some type of way
+Feelin' type of way
+Let's go ay ay ay ay oh ay ay ay
+Whole lotta feelings
+Feelin' type of way
+feelin' type of way
+Let's go
+ay ay ay ay oh ay ay ay oh ay
+Beauty, passion,
+dream and hypes
+Future, ego, brand new vibes
+Don't judge a book
+by only its cover looks
+I'm strong enough say mood
+Get it if you need it
+하늘 is the limit
+정신없이 내가 나 했지 뭐 rodeo
+No it's a shame
+남을 따라 하는 건 No
+난 둘을 믿어
+나랑 또 in the mirror
+So here we go again
+STAYC girls it's going down
+Don't wanna be a bebe
+You know I'm sick of lying
+Don't wanna be a bebe
+You know I'm sick of lying
+솔직하게 Si, c'est moi
+Si, c'est moi
+Si, c'est moi
+Don't wanna be a bebe
+Yeah that's me
+Si, c'est moi
+I'm feelin' some type of way
+Feelin' type of way
+Let's go ay ay ay ay oh ay ay ay
+Whole lotta feelings
+Feelin' type of way
+feelin' type of way
+Let's go
+ay ay ay ay oh ay ay ay oh ay
+나일 땐 너무 쉽고
+감출 땐 너무 지쳐 Time's
+yeah never turning back so
+느낀 대로 할게
+와 놀랬지 surprise
+Yeah I do me and you do you
+Tell me what you gonna do
+So keep it goin' on girl
+Don't wanna be a bebe
+You know I'm sick of lying
+Don't wanna be a bebe
+You know I'm sick of lying
+솔직하게 Si, c'est moi
+Si, c'est moi
+Si, c'est moi
+Don't wanna be a bebe
+Yeah that's me
+Si, c'est moi
+Dancin' around in my tight dress
+하고 싶은 대로 해
+cause I like that
+Look at me what I do
+I'm so priceless
+At the same time
+lookin like a 막내
+Oh excuse me
+made you a little salty
+숨기려고 해봤자 다 티나
+like you lunge
+Yeah so had enough
+fed up with you girly
+보기 싫은 건 때론 과감히 편집
+```
