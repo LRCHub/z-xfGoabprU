@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "BEBE",
+  "base_artist": "STAYC",
+  "createdAt": "2026-02-27T22:48:29.044959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yesterday (feat.Bebe Rexha)",
+      "artist": "David Guetta feat. Bebe Rexha",
+      "has_synced": true,
+      "path": "select/01_Yesterday_(feat.Bebe_Rexha)_David_Guetta_feat._Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yesterday (feat.Bebe Rexha)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/02_Yesterday_(feat.Bebe_Rexha)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bebe Le Strange",
+      "artist": "Heart",
+      "has_synced": true,
+      "path": "select/03_Bebe_Le_Strange_Heart.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mi Bebe Masoquista",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/04_Mi_Bebe_Masoquista_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mi Bebe Masoquista - X-Press 2 Remix",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/05_Mi_Bebe_Masoquista_-_X-Press_2_Remix_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mi Bebe Masoquista (X-Press 2 Remix)",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/06_Mi_Bebe_Masoquista_(X-Press_2_Remix)_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That's How You Know (feat. Kid Ink & Bebe Rexha)",
+      "artist": "Nico & Vinz feat. Kid Ink & Bebe Rexha",
+      "has_synced": true,
+      "path": "select/07_That's_How_You_Know_(feat._Kid_Ink_&_Bebe_Rexha)_Nico_&_Vinz_feat._Kid_Ink_&_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BEBE",
+      "artist": "6ix9ine feat. Anuel AA",
+      "has_synced": true,
+      "path": "select/08_BEBE_6ix9ine_feat._Anuel_AA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bebe (feat. Anuel AA)",
+      "artist": "6ix9ine",
+      "has_synced": true,
+      "path": "select/09_Bebe_(feat._Anuel_AA)_6ix9ine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Is Not A Drill (feat. Bebe Rexha)",
+      "artist": "Pitbull feat. Bebe Rexha",
+      "has_synced": true,
+      "path": "select/10_This_Is_Not_A_Drill_(feat._Bebe_Rexha)_Pitbull_feat._Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Call You Mine (feat. Bebe Rexha)",
+      "artist": "The Chainsmokers feat. Bebe Rexha",
+      "has_synced": true,
+      "path": "select/11_Call_You_Mine_(feat._Bebe_Rexha)_The_Chainsmokers_feat._Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Call You Mine (feat. Bebe Rexha)",
+      "artist": "The Chainsmokers, Bebe Rexha",
+      "has_synced": true,
+      "path": "select/12_Call_You_Mine_(feat._Bebe_Rexha)_The_Chainsmokers,_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+      "artist": "David Guetta feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/13_Family_(feat._Bebe_Rexha,_Ty_Dolla_$ign_&_A_Boogie_Wit_da_Hoodie)_David_Guetta_feat._Bebe_Rexha,_Ty_Dolla_$ign_&_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+      "artist": "David Guetta, Bebe Rexha, Ty Dolla $ign, A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/14_Family_(feat._Bebe_Rexha,_Ty_Dolla_$ign_&_A_Boogie_Wit_da_Hoodie)_David_Guetta,_Bebe_Rexha,_Ty_Dolla_$ign,_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Extended",
+      "artist": "David Guetta, Afrojack, Nicki Minaj & Bebe Rexha",
+      "has_synced": true,
+      "path": "select/15_Hey_Mama_(feat._Nicki_Minaj,_Bebe_Rexha_&_Afrojack)_-_Extended_David_Guetta,_Afrojack,_Nicki_Minaj_&_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+      "artist": "David Guetta, Afrojack, Bebe Rexha, Nicki Minaj",
+      "has_synced": true,
+      "path": "select/16_Hey_Mama_(feat._Nicki_Minaj,_Bebe_Rexha_&_Afrojack)_David_Guetta,_Afrojack,_Bebe_Rexha,_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ouais bébé",
+      "artist": "Myth Syzer feat. Roméo Elvis & Ichon",
+      "has_synced": false,
+      "path": "select/17_Ouais_bébé_Myth_Syzer_feat._Roméo_Elvis_&_Ichon.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ouais bébé (feat. Roméo Elvis & Ichon)",
+      "artist": "Myth Syzer",
+      "has_synced": false,
+      "path": "select/18_Ouais_bébé_(feat._Roméo_Elvis_&_Ichon)_Myth_Syzer.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bébé Requin",
+      "artist": "France Gall",
+      "has_synced": false,
+      "path": "select/19_Bébé_Requin_France_Gall.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEBE",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_BEBE_STAYC.txt"
+    }
+  ]
+}
